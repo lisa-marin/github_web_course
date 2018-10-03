@@ -17,7 +17,8 @@ Headings
    1. *__Bold and italics__*.  
    2. ~~strikethrough~~
 
-Quoting blocks of text.   
+> Quoting blocks of text.   
+
 Tables.   
 Web-links             e.g. www.google.com.   
 Inserting graphics    e.g. coffee-break & biscuits.   
