@@ -25,12 +25,15 @@ Resource        | Web-link
 --------------- | -------------------------------------------------------------------------------------------      
 Combine course  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).  
 Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  
+Other Models    | [Board game repo](https://www.shutupandsitdown.com/).
 
 Inserting graphics    e.g. coffee-break & biscuits.   
-![picture alt](img/Tea_Biscuits.jpg "Tea and biscuits anyone?").  
+![picture alt](img/Tea_Biscuits.jpg "Tea?").  
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
+- [x] What about that other thingy?
+
 HTML tricks           e.g. Underlining text     
                       e.g. Collapsing text.    
 
